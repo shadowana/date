@@ -1,0 +1,4 @@
+date
+====
+
+show the date
